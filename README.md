@@ -55,8 +55,6 @@ To deploy and interact with the `SimpleBank` contract using Remix IDE:
 ## Authors
 Jiya Mittal
 
-- **Dominique Pizzie**
-  - [@DomPizzie](https://twitter.com/DomPizzie)
 
 
 
